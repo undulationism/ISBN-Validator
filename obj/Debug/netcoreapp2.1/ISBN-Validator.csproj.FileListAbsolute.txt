@@ -1,0 +1,11 @@
+C:\Users\fb\Projects\isbn\ISBN-Validator\obj\Debug\netcoreapp2.1\ISBN-Validator.csprojAssemblyReference.cache
+C:\Users\fb\Projects\isbn\ISBN-Validator\obj\Debug\netcoreapp2.1\ISBN-Validator.csproj.CoreCompileInputs.cache
+C:\Users\fb\Projects\isbn\ISBN-Validator\obj\Debug\netcoreapp2.1\ISBN-Validator.AssemblyInfoInputs.cache
+C:\Users\fb\Projects\isbn\ISBN-Validator\obj\Debug\netcoreapp2.1\ISBN-Validator.AssemblyInfo.cs
+C:\Users\fb\Projects\isbn\ISBN-Validator\bin\Debug\netcoreapp2.1\ISBN-Validator.deps.json
+C:\Users\fb\Projects\isbn\ISBN-Validator\bin\Debug\netcoreapp2.1\ISBN-Validator.runtimeconfig.json
+C:\Users\fb\Projects\isbn\ISBN-Validator\bin\Debug\netcoreapp2.1\ISBN-Validator.runtimeconfig.dev.json
+C:\Users\fb\Projects\isbn\ISBN-Validator\bin\Debug\netcoreapp2.1\ISBN-Validator.dll
+C:\Users\fb\Projects\isbn\ISBN-Validator\bin\Debug\netcoreapp2.1\ISBN-Validator.pdb
+C:\Users\fb\Projects\isbn\ISBN-Validator\obj\Debug\netcoreapp2.1\ISBN-Validator.dll
+C:\Users\fb\Projects\isbn\ISBN-Validator\obj\Debug\netcoreapp2.1\ISBN-Validator.pdb
