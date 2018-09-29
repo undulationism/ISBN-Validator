@@ -1,10 +1,3 @@
-obj/Debug/netcoreapp2.1/ISBN-Validator.assets.cache
-bin/Debug/netcoreapp2.1/ISBN-Validator.dll
-bin/Debug/netcoreapp2.1/ISBN-Validator.pdb
-bin/Debug/netcoreapp2.1/ISBN-Validator.deps.json
-obj/Debug/netcoreapp2.1/ISBN-Validator.csproj.FileListAbsolute.txt
-bin/Debug/netcoreapp2.1/ISBN-Validator.runtimeconfig.json
-bin/Debug/netcoreapp2.1/ISBN-Validator.runtimeconfig.dev.json
-obj/Debug/netcoreapp2.1/ISBN-Validator.dll
-obj/Debug/netcoreapp2.1/ISBN-Validator.pdb
-obj/Debug/netcoreapp2.1/ISBN-Validator.assets.cache
+bin/
+obj/
+.vscode/
