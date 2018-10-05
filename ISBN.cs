@@ -1,7 +1,7 @@
 using System;
 
 namespace ISBN_Validator {
-    class Program {
+    class ISBN {
         static void Main (string[] args) {            
             System.Console.WriteLine(AddCheckDigitToIsbn13("978383621997"));
             System.Console.WriteLine(AddCheckDigitToIsbn13("978245362733"));
