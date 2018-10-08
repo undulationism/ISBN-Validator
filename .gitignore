@@ -1,3 +1,7 @@
 bin/
 obj/
 .vscode/
+obj/Debug/netcoreapp2.1/ISBN-Validator.assets.cache
+obj/Debug/netcoreapp2.1/ISBN-Validator.csproj.CoreCompileInputs.cache
+obj/Debug/netcoreapp2.1/ISBN-Validator.assets.cache
+obj/Debug/netcoreapp2.1/ISBN-Validator.dll
